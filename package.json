@@ -1,0 +1,19 @@
+{
+  "name": "@truongtho_dev/module",
+  "version": "1.0.0",
+  "description": "just a simple module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongtho-dev/module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongtho-dev/module/issues"
+  },
+  "homepage": "https://github.com/truongtho-dev/module#readme"
+}
