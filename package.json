@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/truongtho-dev/module/issues"
   },
-  "homepage": "https://github.com/truongtho-dev/module#readme"
+  "homepage": "https://github.com/truongtho-dev/module#readme",
+  "dependencies": {
+    "np": "^7.6.1"
+  }
 }
