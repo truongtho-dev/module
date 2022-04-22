@@ -1,7 +1,3 @@
-module.exports = {
-  log,
-};
-
 var apiKey = "123abc";
 function log() {
   console.log("This is a simple module to log");
@@ -9,3 +5,7 @@ function log() {
   console.log("v3 with apikey");
   console.log(apiKey);
 }
+
+module.exports = {
+  log,
+};
